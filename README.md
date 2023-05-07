@@ -1,5 +1,6 @@
 # dog-api-voice-assistant
 Использованы библиотеки requests, pyttsx3, pyaudio и Vosk.
+Исходники Vosk: https://disk.yandex.ru/d/gq_d8zPVmMBiYw/%D0%9F%D0%A04
 
 Взаимодействует с API https://dog.ceo/api/breeds/image/random, который предоставляет фотографии собак различных пород.
 
